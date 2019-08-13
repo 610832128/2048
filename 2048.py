@@ -20,3 +20,4 @@ def run_game():
     start_game(screen, ai_settings)
 
 run_game()
+print("asdfad")
