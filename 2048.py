@@ -21,3 +21,5 @@ def run_game():
 
 run_game()
 print("asdfad")
+print("jlksdfjklsdfjklfdskjl")
+print("122")
